@@ -1,9 +1,9 @@
 ## Machine_Learning_Technique_For_Flow_Regime_Classification
 
-### Two Phase Regime Classification in a Straight Horizontal Pipe
+### Two Phase Flow Regime Classification in a Straight Horizontal Pipe
 
 ## About the project
-- In the present study the 7 different two-phase flow regimes classified for refrigerant flow occurring in a horizontal straight pipe during adiabatic wall conditions are made with the application of Random Forest Classifier (RFC), and Xtreme Gradient Boosting Classifier (XGBC)
+- In the present study the 7 different two-phase flow regimes were classified for refrigerant flow occurring in a horizontal straight pipe are made with the application of Random Forest Classifier (RFC), and Xtreme Gradient Boosting Classifier (XGBC)
 
 ### Experimental Flow Visualization (Padilla 2011 et al )
 
@@ -18,7 +18,7 @@
 Image Credit: Mudawar et. al.
 
 ## Methods
-- More than 390+ experimental two-phase pressure drop data is taken from the literature with features- mass flux, vapor quality, pipe diameter, saturation pressure and saturation temperature
+- More than 390+ experimental two-phase flow regimes data is taken from the literature with features- mass flux, vapor quality, pipe diameter, saturation pressure and saturation temperature
 
 - RFC and XGBC models trained with 22 input features to classify 7 different flow regimes
 
